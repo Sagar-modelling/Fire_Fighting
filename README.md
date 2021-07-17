@@ -15,4 +15,4 @@ Image Input in Improved Inception V3 Transfer Learning Model ![4](https://user-i
 Indoor Image Input in Improved Inception V3 Transfer Learning Model ![cs](https://user-images.githubusercontent.com/67474853/126035012-abc92509-6da1-458f-8332-af120a5fe929.JPG)
 
 
-             Image Output: "Neutral"(No fire) ![Capture](https://user-images.githubusercontent.com/67474853/126035014-19a69b8c-a8b5-43a6-a7b8-0a9dcee486ab.JPG)
+             Image Output: "Neutral"(No fire)
