@@ -1,4 +1,4 @@
-# Fire_Fighting
+# Fire_Detection
 [Dataset Link for CNN](https://drive.google.com/drive/folders/1HI_2fVUJKK2eqKVCHdal2lMPRjvf85Ud?usp=sharing)
 
 
