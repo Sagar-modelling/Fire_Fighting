@@ -4,7 +4,7 @@
 
 [Dataset for InceptionV3](https://github.com/DeepQuestAI/Fire-Smoke-Dataset/releases/download/v1/FIRE-SMOKE-DATASET.zip)
 
-Fire and Smoke Recognition using Deep Learning(Image Classification) Model for a Fire Fighting Robot
+Fire and Smoke Recognition using Deep Learning(Image Classification) Model for a Fire Fighting Robot.
 
 Image Input in basic CNN Model: ![Captureaad](https://user-images.githubusercontent.com/67474853/126034973-47575fbb-d4f8-4831-bc9b-b9d2a9d62031.JPG)
 
